@@ -6,10 +6,6 @@ I was the first security hire at ByteCorp Technologies, so I got to build things
 
 Lately I've been most interested in what happens to security when a lot of the code is written by AI. I built an AI-assisted assessment tool that took our first-pass reviews from about a week down to a few hours, and a growing part of my code reviews is AI-generated code. Expect some of that to show up here.
 
-**What I'm working on now**
-
-A secure AWS baseline in Terraform: hardened VPC, S3 and IAM modules, CloudTrail, GuardDuty and Security Hub, plus a GitHub Actions pipeline that runs Trivy and Snyk on the IaC before anything gets deployed. It's still in progress.
-
 **Things I've written**
 
 - [Mastering RBAC: How to Secure Your GKE Clusters with Google Groups](https://hadiqak27.medium.com/mastering-rbac-how-to-secure-your-gke-clusters-with-google-groups-b51747a244c6)
